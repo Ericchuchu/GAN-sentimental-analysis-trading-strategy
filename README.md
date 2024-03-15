@@ -9,5 +9,5 @@ conducted to assess the efficacy of the approach in real market conditions.
 ## Reference
 this project refered the article on the Kaggle(https://www.kaggle.com/code/equinxx/stock-prediction-gan-twitter-sentiment-analysis)
 
-# Report
+## Report
 The final results, training process, and investment decision-making process are all documented in the report.pdf file.
